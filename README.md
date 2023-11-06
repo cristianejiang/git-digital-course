@@ -2,12 +2,9 @@
 
 ## diferenca
 
-## algo mais
+## CURSO DIGITAL GIT    
 
- ## mudanca
+## salvando alteracoes no git
 
- ## curso digital git
-
- ## Salvando alteracoes
- 
+* comando git push
 
